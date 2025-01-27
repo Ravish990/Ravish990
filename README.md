@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Ravish. <br>I am pursuing a B. Tech in Computer Science with a specialization in AI & ML.<br> As a tech enthusiast, I am always eager to learn new skills and solve complex problems.
+My name is Ravish. <br>I am pursuing a B. Tech in Computer Science with a specialization in AI & ML.<br> As a tech enthusiast, I am always eager to learn new skills and solve complex problems. Currently , I am in my first year of the college at Polaris School Of Technology.
 
 
 ## 🌐 Socials:
