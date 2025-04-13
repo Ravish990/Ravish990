@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 📫 How to reach me **ravish@99055.**
+- 📫 How to reach me **ravish99055@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
