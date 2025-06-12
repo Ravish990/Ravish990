@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Chromium Gsoc Project](https://docs.google.com/document/d/1EKJicM4grBpp2nA4SOPzUvsKVLa_Ndj5L0HrIsGJNUI/edit?tab=t.0)
-
-- 🌱 I’m currently learning **Mern Stack**
+- 🔭 I’m currently working as Full Stack Developer in Zuvees
 
 - 📫 How to reach me **ravish99055@gmail.com**
 
